@@ -50,13 +50,13 @@ AI application implementing Neural Style Transfer using pre-trained VGG-19. Extr
 ### 📸 [SnapClass – Intelligent Student AI Attendance System](https://github.com/rajlaxmi12/SnapClass) - [Live Demo](https://snap-class-landing-page-tau.vercel.app/)
 Dual-factor AI attendance system combining Face Recognition and Voice Recognition. SQL-based record management with a Streamlit dashboard for real-time tracking and analytics.
 
-### 💼 Job Portal
+### 💼 [Job Portal](https://github.com/rajlaxmi12/Job_Portal) - [Live Demo](https://job-portal-olive-theta.vercel.app/)
 Full-stack MERN job portal with role-based access control for students and recruiters, powered by RESTful APIs.
 
-### ✈️ Wanderlust
+### ✈️ [Wanderlust](https://github.com/rajlaxmi12/wanderlust) - [Live Demo](https://wanderlust-1mpj.onrender.com/)
 Travel listing application with dynamic pricing/descriptions and full CRUD functionality (React, Node.js, Express).
 
-### 🧸 Pacific Toys
+### 🧸 [Pacific Toys](https://github.com/rajlaxmi12/pacific_toys) - [Live Demo](https://pacific-toys.onrender.com/listings)
 E-commerce platform built on the MVC pattern with secure authentication and robust client/server-side validation.
 
 ---
