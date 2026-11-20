@@ -4,7 +4,7 @@ Full Stack Developer & AI/ML Engineer | Computer Vision Researcher | B.Tech CSE 
 
 📍 Ranchi, Jharkhand, India
 📧 rajlaxmi.120306@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/raj-laxmi-4007a7332/) • [Portfolio](https://portfolio-rl.vercel.app/) • [GitHub](https://github.com/rajlaxmi12)
+🔗 [LinkedIn](https://www.linkedin.com/in/raj-laxmi-4007a7332/) • [Portfolio](https://rajlaxmiportfolio.com/) • [GitHub](https://github.com/rajlaxmi12)
 
 ---
 
